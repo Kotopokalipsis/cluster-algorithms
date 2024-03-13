@@ -1,0 +1,13 @@
+.map-container {
+  height: calc(100vh - 100px);
+  width: 100%;
+  z-index: 0;
+}
+
+.w-inherit {
+  width: inherit;
+}
+
+.app-container {
+  overflow: hidden;
+}
